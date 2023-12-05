@@ -57,7 +57,7 @@ const Component = () => {
               <input
                 type="submit"
                 value="login"
-                className="block w-full h-[44px] rounded-[5px] bg-[#154423] mt-[25px] text-white text-sm font-semibold capitalize"
+                className="block w-full cursor-pointer h-[44px] rounded-[5px] bg-[#154423] mt-[25px] text-white text-sm font-semibold capitalize"
               />
             </form>
             <div className="mt-[32px] flex items-center">
